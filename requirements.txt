@@ -1,0 +1,4 @@
+cryptography>=42.0
+pycryptodome>=3.20
+bcrypt>=4.1
+reedsolo>=1.7
